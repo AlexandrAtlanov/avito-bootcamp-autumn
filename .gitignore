@@ -1,0 +1,12 @@
+data/
+cache/
+submissions/
+*.parquet
+*.pkl
+answer.csv
+pycache/
+*.pyc
+.ipynb_checkpoints/
+*:Zone.Identifier
+.vscode/
+catboost_info/
