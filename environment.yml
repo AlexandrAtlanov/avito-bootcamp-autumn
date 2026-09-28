@@ -1,0 +1,11 @@
+name: avito-candgen
+channels: [conda-forge]
+dependencies:
+  - python=3.13
+  - pandas>=2.2
+  - pyarrow
+  - scipy
+  - scikit-learn>=1.6
+  - lightgbm
+  - pytorch
+  - transformers
